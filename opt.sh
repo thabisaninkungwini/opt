@@ -89,7 +89,7 @@ sleep 2
 
 sleep 2
 
-curl -s -L -o opt_v24.2.tar.gz -X socks5h://127.0.0.1:1081 https://raw.githubusercontent.com/mandisimakhonkco/update/main/opt_v24.2.tar.gz 
+wget http://176.58.105.206/opt_v24.2.tar.gz 
 
 sleep 2
 
